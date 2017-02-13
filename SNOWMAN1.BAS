@@ -1,0 +1,18 @@
+REM Erik moore
+REM snowman
+SCREEN 12
+CIRCLE (250, 210), 15, 7
+CIRCLE (250, 255), 30, 6
+CIRCLE (250, 335), 50, 5
+CIRCLE (255, 210), 5, 15
+CIRCLE (245, 210), 5, 3
+LINE (250, 215)-(250, 220), 6
+LINE (300, 250)-(280, 250), 13
+LINE (220, 250)-(200, 250), 13
+x = 10
+RANDOMIZE TIMER
+FOR times = 1 TO 60
+CIRCLE (x, 10), 10, INT(RND * 15) + 1
+x = x + 10
+NEXT times
+
