@@ -1,2 +1,2 @@
-# Qbasic_circle
-Old  Qbasic Circle program
+#Old Qbasic programs
+These are old Qbasic programs that have survived from when I was first learning to code in around 2007. They may or may not work even if you get qbasic running on a modern machine. Please note that timing is likely to be quite far off as nothing accounts for processing speed and some of these were written on old Pentium 3 machines that were already quite slow at that point in time.
